@@ -1,0 +1,21 @@
+h1 {
+    color: red;
+    font-size: 350%;
+}
+ol {
+    color:rgb(255, 1, 1);
+    font-size: 200%;
+}
+ul {
+    color:rgb(0, 156, 0);
+}
+.img {
+    background-image: url('images.jpg');
+}
+body {
+    /* background-image: url('https://sm.ign.com/ign_in/news/s/sony-offic/sony-officially-reveals-ps5-pro-during-playstation-5-technic_qw2k.jpg'); */
+    background-image: url('images.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+    background-size: 100% 100%;
+  }
